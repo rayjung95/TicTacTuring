@@ -89,7 +89,7 @@
     ]
   },
   "babel": {
-    "plugin": [
+    "plugins": [
       "react-relay"
     ],
     "presets": [
@@ -100,3 +100,7 @@
     "extends": "react-app"
   }
 }
+
+
+
+
