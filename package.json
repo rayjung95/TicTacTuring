@@ -88,9 +88,7 @@
     ]
   },
   "babel": {
-    "plugins": [
-      "react-relay"
-    ],
+    "plugins": ["react-relay"],
     "presets": [
       "react-app"
     ]
